@@ -1,0 +1,29 @@
+Olá, este projeto seja de excluividade e usabilidade somente minha, pretendo faze-lo para outras pessoas que se interressar.
+
+o objetivo desse progrma vai ser para aleatorizar uma quantidade de exercicios fisicos e passar para o usuario uma lista para fazer no dia.
+
+os topicos pricipais do programa.
+
+-- linguagem utilizada: Python + extenções 
+    - 
+
+
+Funcionalidades e Funções:
+-- tela de login e senha ( criar perfil)
+    - Vai ter novas funções futuramente como: resgatar conta, e redefinir senha.
+
+-- tela de perfil do usuario.
+    - vai ser onde colocar a foto,
+        peso do usuario + altura,
+        status de ofensiva,
+        quantos dias treinados, 
+        quantos dias faltou treinar,
+    - botão para acessar a aleatoriedade dos treinos.
+
+-- tela onde irá mostrar os treinos
+    - quantidade de repitições,
+    - tempo recomendavel para cada treino,
+    - dicas de movemento correto, 
+    - imagem ilustrativa (futuramente),
+    - Peso utilizado (futuramente),
+    
